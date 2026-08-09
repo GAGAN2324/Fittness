@@ -85,6 +85,7 @@ Returns `200 OK` with a token, or `401 Unauthorized` on bad credentials.
 
 ## Frontend
 HTML,CSS,JavaScript
+open login.html in browser it will run 
 
 **Note:** there's no registration page in this UI — accounts are created by
 calling `POST /api/auth/register` directly (Postman, curl, or Swagger once
